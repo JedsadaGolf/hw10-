@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 body{
-  background-color: #365486;
+  background-color: #7BD3EA;
 }
 h1{
   text-align: center;
@@ -20,13 +20,14 @@ h3{
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: 10px;
-  background-color: #596FB7;
+  background-color: #F6D6D6;
   cursor: pointer;
+  position: center;
   transition: background-color 1s, box-shadow 0.3s; /* Added box-shadow to the transition */
 }
 
 .user li:hover {
-  background-color: #7FC7D9;
+  background-color: #A1EEBD;
   box-shadow: 0 0 10px rgb(177, 173, 173); /* Add shadow on hover */
 }
 
